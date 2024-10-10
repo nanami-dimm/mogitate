@@ -36,6 +36,8 @@ DB_PASSWORD=laravel_pass
 -laravel8.83.27
 -mysql8.0.26
 
+##ER図
+
 ##URL
 -開発環境: http://localhost/products/
 -phpMyadmin: http://localhost:8080/
