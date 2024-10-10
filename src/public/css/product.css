@@ -1,0 +1,109 @@
+.products {
+    background: #F8F8F8;
+    width: Hug (1, 512px)px;
+        height: Hug (1, 000px)px;
+        padding: 70px 0px 70px 0px;
+        gap: 20px;
+        opacity: 0px;
+}
+
+.products__heading {
+    width: Hug (1, 512px)px;
+        height: Hug (50px)px;
+        padding: 0px 40px 0px 40px;
+        gap: 1167px;
+        opacity: 0px;
+}
+
+.content__heading {
+    font-family: Hiragino Kaku Gothic Pro;
+        font-size: 32px;
+        font-weight: 600;
+        line-height: 48px;
+        text-align: left;
+        color:#333333;
+}
+
+.search-form {
+    width: Fixed (240px)px;
+        height: Hug (50px)px;
+        padding: 14.5px 10px 14.5px 10px;
+        gap: 10px;
+        border-radius: 25px 0px 0px 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        border: 1px solid #E0DFDE
+}
+
+.products__inner-side{
+    width: Hug (240px)px;
+        height: Hug (267px)px;
+        gap: 40px;
+        opacity: 0px;
+}
+.search-form__keyword-input {
+    font-family: Hiragino Kaku Gothic Pro;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 21px;
+        text-align: left;
+        color: #E0DFDE;
+}
+
+.search-form__actions{
+    width: 240px;
+        height: Hug (44px)px;
+        padding: 10px 0px 0px 0px;
+        gap: 10px;
+        
+        
+}
+.search-form__search-btn {
+    width:150px;
+            height: Hug (44px)px;
+            padding: 10px 0px 0px 0px;
+            gap: 10px;
+            border-radius: 5px;
+            opacity: 0px;
+        color:#333333;
+        background: #F5C800;
+        box-shadow: 0px 4px 10px 0px #0000001A;
+            
+            
+}
+.products__register {
+    width: Hug (137px)px;
+        height: Hug (50px)px;
+        padding: 13px 20px 13px 20px;
+        gap: 10px;
+        border-radius: 5px 0px 0px 0px;
+        opacity: 0px;
+        text-align:right;
+        box-shadow: 0px 4px 10px 0px #0000001A;
+}
+
+.register-page__btn {
+    font-family: Hiragino Kaku Gothic Pro;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 24px;
+        text-align: left;
+        color:#4B4B4B;
+        background: #FFA929;
+}
+
+.products__inner-main-item {
+width: Hug (1, 162px)px;
+    height: Hug (720px)px;
+    gap: 20px;
+    opacity: 0px;
+}
+
+.products_data {
+    width: Hug (374px)px;
+        height: Hug (350px)px;
+        gap: 0px;
+        border-radius: 5px 0px 0px 0px;
+        opacity: 0px;
+        box-shadow: 0px 0px 10px 0px #0000001A;
+}

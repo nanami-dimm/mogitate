@@ -1,0 +1,149 @@
+.detail {
+    width: Hug (1, 512px)px;
+        height: Hug (797px)px;
+        padding: 70px 356px 70px 356px;
+        gap: 30px;
+        opacity: 0px;
+        background: #F8F8F8;
+}
+
+.detail__heading {
+    font-family: Hiragino Kaku Gothic Pro;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 21px;
+        text-align: left;
+}
+
+.content__heading {
+    width: Hug (800px)px;
+        height: Hug (353px)px;
+        gap: 10px;
+        opacity: 0px;
+}
+
+.detail__inner {
+    width: Hug (800px)px;
+        height: Hug (322px)px;
+        gap: 30px;
+        opacity: 0px;
+}
+
+.detail-form__group {
+    width: Hug (396px)px;
+        height: Hug (77px)px;
+        gap: 10px;
+        opacity: 0px;
+}
+
+.detail-form__label{
+font-family: Hiragino Kaku Gothic Pro;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    text-align: left;
+    color:#4B4B4B;
+}
+
+.detail-form__input {
+width: Fill (396px)px;
+    height: Hug (43px)px;
+    padding: 11px 10px 11px 10px;
+    gap: 10px;
+    border-radius: 5px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    border: 1px solid #E0DFDE;
+    color:#4B4B4B;
+}
+
+.detail-form__error-message{
+    font-family: Hiragino Kaku Gothic Pro;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 21px;
+        text-align: left;
+        color:#FD0707;
+}
+
+.detail-form__label-image {
+    width: 374px;
+        height: 281px;
+        gap: 0px;
+        opacity: 0px;
+}
+
+.detail-form__input-image {
+    border: 1px solid #4B4B4B;
+    background: #E0DFDE;
+    font-family: Hiragino Kaku Gothic Pro;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 21px;
+        text-align: left;
+        color:#4B4B4B;
+}
+
+.detail-form__seasons-option {
+    width: 20px;
+        height: 20px;
+        gap: 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        color:#4B4B4B;
+        border: 1px solid #4B4B4B;
+}
+
+.detail-form__seasons-text {
+    font-family: Hiragino Kaku Gothic Pro;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 24px;
+        text-align: left;
+        color:#4B4B4B;
+}
+
+.detail-form__textarea {
+    width: Fill (800px)px;
+        height: Fixed (160px)px;
+        padding: 11px 10px 11px 10px;
+        gap: 10px;
+        border-radius: 5px 0px 0px 0px;
+        border: 1px 0px 0px 0px;
+        opacity: 0px;
+        background: #FFFFFF;
+        border: 1px solid #E0DFDE;
+}
+
+.detail-form__return-btn {
+    width: Fixed (200px)px;
+        height: Hug (50px)px;
+        padding: 13px 10px 13px 10px;
+        gap: 10px;
+        border-radius: 5px 0px 0px 0px;
+        opacity: 0px;
+        background:#E0DFDE;
+        color: #4B4B4B;
+
+}
+
+.detail-form__btn {
+    width: Fixed (200px)px;
+        height: Hug (50px)px;
+        padding: 13px 10px 13px 10px;
+        gap: 10px;
+        border-radius: 5px 0px 0px 0px;
+        opacity: 0px;
+        background: #F5C800;
+        color:#4B4B4B;
+}
+
+.detail-form__delete-btn {
+    
+    width: 32px;
+        height: 32px;
+        padding: 5.33px 6.67px 4px 5.33px;
+        gap: 0px;
+        opacity: 0px;
+}

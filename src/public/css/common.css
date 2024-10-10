@@ -1,0 +1,30 @@
+html,
+body {
+    height: 100%;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.header {
+width: Fixed (1, 512px)px;
+    height: Hug (53px)px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border: 0px 0px 1px 0px;
+    opacity: 0px;
+    border-bottom: 1px solid #F4F4F4;
+}
+
+.header__heading {
+    font-family: jsMath-cmti10;
+        font-size: 30px;
+        font-style: italic;
+        font-weight: 500;
+        line-height: 32.73px;
+        text-align: left;
+        color:#F5C800;
+}

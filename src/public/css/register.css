@@ -1,0 +1,135 @@
+.register{
+    width: Hug (1, 512px)px;
+        height: Hug (930px)px;
+        padding: 70px 376px 70px 376px;
+        gap: 40px;
+        opacity: 0px;
+        background: #F8F8F8;
+}
+
+.register-content__heading{
+    font-family: Hiragino Kaku Gothic Pro;
+        font-size: 32px;
+        font-weight: 600;
+        line-height: 48px;
+        text-align: left;
+        color:#333333;
+}
+
+.register__inner {
+    width: Hug (760px)px;
+        height: Hug (702px)px;
+        gap: 30px;
+        opacity: 0px;
+}
+
+.register-form__group {
+    width: Hug (760px)px;
+        height: Hug (77px)px;
+        gap: 10px;
+        opacity: 0px;
+}
+
+.register-form__label {
+    font-family: Hiragino Kaku Gothic Pro;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 24px;
+        text-align: left;
+        color:#4B4B4B;
+}
+
+.register-form__required{
+    font-family: Hiragino Kaku Gothic Pro;
+        font-size: 12px;
+        font-weight: 300;
+        line-height: 18px;
+        text-align: left;
+        color:#FFFFFF;
+        background: #FD0707;
+}
+
+.register-form__input{
+    width: Hug (760px)px;
+        height: Hug (43px)px;
+        gap: 10px;
+        opacity: 0px;
+        font-family: Hiragino Kaku Gothic Pro;
+            font-size: 14px;
+            font-weight: 300;
+            line-height: 21px;
+            text-align: left;
+            color:#E0DFDE;
+}
+
+.register-form__error-message {
+    font-family: Hiragino Kaku Gothic Pro;
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 21px;
+        text-align: left;
+        color:#FD0707;
+}
+.register-form__sellect{
+    font-family: Hiragino Kaku Gothic Pro;
+        font-size: 12px;
+        font-weight: 300;
+        line-height: 18px;
+        text-align: left;
+        color:#FD0707;
+}
+.register-form__seasons-inputs{
+width: Hug (314px)px;
+height: Hug (43px)px;
+gap: 10px;
+opacity: 0px;}
+
+.register-form__seasons-option{
+    width: Hug (41px)px;
+        height: Hug (34px)px;
+        padding: 5px 0px 5px 0px;
+        
+}
+
+.register-form__seasons-labe {
+    display:inline-block;
+}
+.register-form__seasons-input {
+    width: 20px;
+        height: 20px;
+        
+        border: 1px 0px 0px 0px;
+        
+        background: #FFFFFF;
+        border: 1px solid #4B4B4B;
+        
+}
+
+.register-form__seasons-text{
+    font-family: Hiragino Kaku Gothic Pro;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 24px;
+        text-align: left;
+        color:#4B4B4B;
+}
+.register-form__return-btn input{
+font-family: Hiragino Kaku Gothic Pro;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    box-shadow: 0px 4px 10px 0px #0000001A;
+    color:#4B4B4B;
+    background:#E0DFDE;
+}
+.register-form__btn {
+    box-shadow: 0px 4px 10px 0px #0000001A;
+    background: #F5C800;
+    color:#4B4B4B;
+    font-family: Hiragino Kaku Gothic Pro;
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 24px;
+        text-align: left;
+}
