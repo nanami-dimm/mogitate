@@ -34,6 +34,7 @@ class ProductController extends Controller
     public function detail($productId)
     {
         $item = ['id' => $productId];
+        $products = Product::all();
         return view('detail', $item);
     }
 
