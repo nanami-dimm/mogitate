@@ -37,7 +37,7 @@ DB_PASSWORD=laravel_pass
 -mysql8.0.26
 
 ##ER図
-
+mtest.drawio.png に記載
 ##URL
 -開発環境: http://localhost/products/
 -phpMyadmin: http://localhost:8080/
